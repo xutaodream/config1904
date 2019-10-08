@@ -12,4 +12,4 @@ mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: com.catering.pojo
 
-myname: zhangsan tatch in java1904 class...xxxx
+myname: zhangsan tatch in java1904 class..===============
